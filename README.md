@@ -16,3 +16,15 @@ Left | 6 |
 if you would like to add a passive buzzer then attach one wire to the negative rail and one wire to pin 9.
 
 --15/7/2025
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+while checking out the doom port, I am safe to say that things do now work as intended just like in the original project.
+
+You can check out the original post if you haven't alreadt! 
+
+https://github.com/daveruiz/doom-nano
+
+--16/7/2025
+
