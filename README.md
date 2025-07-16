@@ -5,11 +5,11 @@ DM me on my discord account if u need any help or have questions: freakierthanus
 
 pins for the buttons:
 
-Fire | 10
-Forward | 8
-Back | 3
-Right | 7
-Left | 6
+Fire | 10 |
+Forward | 8 |
+Back | 3 | 
+Right | 7 |
+Left | 6 |
 
 **OPTIONAL**
 
